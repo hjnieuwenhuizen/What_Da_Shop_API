@@ -1,0 +1,19 @@
+{
+	"editor.tabSize": 4,
+	"editor.formatOnSave": true,
+	"[javascript]": {
+		"editor.formatOnSave": true
+	},
+	"[scss]": {
+		"editor.formatOnSave": true
+	},
+	"[javascriptreact]": {
+		"editor.formatOnSave": true
+	},
+	"javascript.updateImportsOnFileMove.enabled": "prompt",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "explicit",
+		"source.fixAll": "explicit"
+	},
+	"files.autoSave": "onFocusChange"
+}
